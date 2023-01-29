@@ -219,12 +219,8 @@
             "id": "c943a5962296cbf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/+Annie Qin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -294,7 +290,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/+Annie Qin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +306,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/+Annie Qin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,9 +327,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "People/+Annie Qin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -357,14 +349,14 @@
   },
   "active": "c943a5962296cbf3",
   "lastOpenFiles": [
-    "People/+Anna Li.md",
-    "People/-Mentee 1.md",
-    "People/-Mentee 17.md",
-    "People/-Mentee 14.md",
+    "Status/_Board member.md",
+    "People/+Emily Zhang.md",
     "People/-Mentee 16.md",
+    "People/-Mentee 17.md",
     "People/-Mentee 15.md",
-    "People/-Mentee 13.md",
+    "People/-Mentee 14.md",
     "People/-Mentee 12.md",
+    "People/-Mentee 13.md",
     "People/-Mentee 11.md",
     "People/-Mentee 10.md"
   ]
