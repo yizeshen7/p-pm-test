@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "21bf61a0728eddcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc64f36ffe792232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b0c3aa4a904373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Status/_Alumni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "278e41db48602c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company/_Google.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20464df45f73b3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company/_Meta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61a87f517d746056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company/_Tesla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b128692d2835e324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company/_Microsoft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "205a3947d8a29734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company/_ServiceNow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d93bf68b1fe26e2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "94616e8fbe08e21e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dc69775343afa84",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a951fe26076edcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e25595632230c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3037171f07f0dcae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81e5a96a4b5598b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a291690969030c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f30ac4de8a51039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db06f830305df2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bc88fe149688cf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd052390c5ae1b8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d5a980c0a9e7486",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94616e8fbe08e21e",
+  "lastOpenFiles": [
+    "+Yize Shen.md",
+    "Company/_Tesla.md",
+    "Company/_Paypal.md",
+    "Company/_ServiceNow.md",
+    "Company/_Microsoft.md",
+    "Company/_Meta.md",
+    "Company/_Google.md",
+    "Status/_Alumni.md",
+    "Status/_Mentee.md",
+    "Status/_General Member.md"
+  ]
+}
