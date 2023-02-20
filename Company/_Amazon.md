@@ -1,2 +1,1 @@
-[[+Yashu Arora]]
 [[+Yee Su]]
