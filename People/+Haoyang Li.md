@@ -1,3 +1,0 @@
-#mentor 
-
-[[-Mentee 8]]
