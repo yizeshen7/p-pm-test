@@ -1,0 +1,6 @@
+-   preferred full name: Emily Zhang
+-   year/program/majors/minors: Senior (grad. May 2023), B.S. Information Systems, minor in HCI
+-   where you are from: Fremont, CA (or Bay Area, CA for more general)
+-   what you do on campus: President of Lean On Me @ CMU, PR for Infra Dance Company, TA for 95-885/67-364 Data Science & Big Data, mentor for Women in IS, dancer & choreographer for Dancers’ Symposium, prev. 15-112 TA (feel free to excl that last one if you only want current)
+-   prev. Internship/work experience: PM intern at PayPal, PM intern at nCino
+-   dream job as a kid / what you would do if u weren’t in tech/CMU: veterinarian

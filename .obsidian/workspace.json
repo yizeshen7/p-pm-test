@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "People - board/+Yashu Arora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86f4a3218aed62ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "People - board/+Pranav Addepalli.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,16 +160,21 @@
       "publish:Publish changes": false
     }
   },
-  "active": "1f40b5db96ea329a",
+  "active": "77e25595632230c0",
   "lastOpenFiles": [
-    "People - board/+Yize Shen.md",
-    "Company/_Microsoft.md",
+    "Resource",
+    "Resource/IMG_2976.HEIC.png",
+    "People - board/+Kunal Sharda.md",
     "People - board/+Yashu Arora.md",
+    "People - board/+Yize Shen.md",
+    "People - board/+Anna Li.md",
+    "People - board/+Annie Qin.md",
+    "People - board/+Cathryn Lin.md",
     "People - board/+Tilly Zuo.md",
     "People - board/+Emily Zhang.md",
-    "People - board/+Annie Qin.md",
-    "People - board/+Anna Li.md",
-    "People - board/+Cathryn Lin.md",
+    "People - board/+Pranav Addepalli.md",
+    "IMG_2976.HEIC.heic",
+    "Company/_Microsoft.md",
     "Company/_ServiceNow.md",
     "Company/_Hive AI.md"
   ]

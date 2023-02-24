@@ -1,0 +1,6 @@
+-   Kunal Sharda
+-   junior - business/CS
+-   from boston
+-   entrepreneurial experience, and has previously built a scientific research startup called Delphus and participated in fellowship programs at Ripple Ventures, Picus Capital, and, currently, Dorm Room Fund. He has also interned as a Technical Product Manager at Numerator and worked on ethics and debate at OpenAI. He will be at ServiceNow in San Diego this summer!
+-   On campus, he enjoys participating in hackathons and building Tartanhacks at ScottyLabs.
+-   dream job: indie pop music artist
