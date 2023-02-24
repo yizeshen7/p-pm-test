@@ -4,3 +4,5 @@
 -   don’t do anything on campus currently but was previously president of cmba, in 180dc, co-president of women in economics
 -   prev experience: SWE intern @ optum, PM intern @ Motional, IB intern @ Jefferies, product TPM intern @ meta
 -   dream job/notcmu: Artist
+![[anna.png]]
+![[ann-2.png]]

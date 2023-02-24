@@ -4,3 +4,5 @@
 -   If I’m on campus, most likely I’m coding lolll
 -   Internship: TikTok PM Intern Full time: Hive AI PM
 -   Dream job: filmmaker. If I’m not in tech/CMU, I would either go make documentaries or do charities around unprivileged place the world
+![[annie.jpg]]
+![[annie-2.jpg]]

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People - board/+Yashu Arora.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86f4a3218aed62ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People - board/+Pranav Addepalli.md",
+                "file": "People - board/+Yize Shen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People - board/+Pranav Addepalli.md",
+                "file": "People - board/+Yize Shen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People - board/+Pranav Addepalli.md",
+                "file": "People - board/+Yize Shen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People - board/+Pranav Addepalli.md"
+                "file": "People - board/+Yize Shen.md"
               }
             }
           }
@@ -160,19 +147,28 @@
       "publish:Publish changes": false
     }
   },
-  "active": "77e25595632230c0",
+  "active": "1f40b5db96ea329a",
   "lastOpenFiles": [
-    "Resource",
-    "Resource/IMG_2976.HEIC.png",
-    "People - board/+Kunal Sharda.md",
-    "People - board/+Yashu Arora.md",
-    "People - board/+Yize Shen.md",
-    "People - board/+Anna Li.md",
-    "People - board/+Annie Qin.md",
-    "People - board/+Cathryn Lin.md",
     "People - board/+Tilly Zuo.md",
-    "People - board/+Emily Zhang.md",
+    "tillly.jpg",
+    "tilly-2.jpg",
     "People - board/+Pranav Addepalli.md",
+    "pranav.jpg",
+    "People - board/+Emily Zhang.md",
+    "People - board/+Kunal Sharda.md",
+    "emily-2.jpg",
+    "emily.jpg",
+    "People - board/+Cathryn Lin.md",
+    "cathryn-2.jpg",
+    "cathryn.png",
+    "People - board/+Annie Qin.md",
+    "annie-2.jpg",
+    "annie.jpg",
+    "People - board/+Anna Li.md",
+    "ann-2.png",
+    "People - board/+Yize Shen.md",
+    "People - board/+Yashu Arora.md",
+    "Resource",
     "IMG_2976.HEIC.heic",
     "Company/_Microsoft.md",
     "Company/_ServiceNow.md",
