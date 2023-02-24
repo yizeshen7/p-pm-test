@@ -1,0 +1,6 @@
+-   preferred full name: Pranav Addepalli
+-   year/program/majors/minors: Junior, IS/HCI double major, CS minor
+-   where you are from: Virginia
+-   what you do on campus: 15122 lead ta, 67250 ta, greek life, and waste money at la prima
+-   prev. Internship/work experience: SWE at US army corps of engineers, Msft PM ‘22 and ‘22
+-   what you would do if u weren’t in tech/CMU: teacher
